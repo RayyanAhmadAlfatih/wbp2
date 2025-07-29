@@ -1,0 +1,28 @@
+[
+  {
+    "license_key": "SWS-LNI-ZHDRE-95603-K7",
+    "email": "rayyan@kingofcoding.my.id",
+    "is_master": 1,
+    "expires": null
+  },
+  {
+    "license_key": "SWS-LNI-8F2D0-48323-E0",
+    "email": "rayyasaclothes.2@gmail.com",
+    "is_master": 1,
+    "expires": "2081-12-04",
+    "quota": 150
+  },
+  {
+    "license_key": "SWS-LNI-FS1V7-26521-W5",
+    "email": "rayyasaclothes.3@gmail.com",
+    "is_master": 0,
+    "expires": "2097-12-04",
+    "quota": 99999
+  },
+  {
+    "license_key": "WBP-Z2MVY-67863-N3",
+    "email": "rayyasaclothes.2@gmail.com",
+    "is_master": 0,
+    "quota": 5
+  }
+]
